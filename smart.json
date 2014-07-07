@@ -1,0 +1,11 @@
+{
+  "name": "meteor-accounts-reddit",
+  "description": "Login service for reddit",
+  "homepage": "https://github.com/cw4gn3r/meteor-accounts-reddit",
+  "author": "Christoph Wagner <github@christophwagner.me",
+  "version": "0.0.1",
+  "git": "https://github.com/cw4gn3r/meteor-accounts-reddit.git",
+  "packages": {
+    "reddit": "0.0.1"
+  }
+}
