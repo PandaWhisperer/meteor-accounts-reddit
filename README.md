@@ -1,4 +1,4 @@
-## accounts-linkedin
+## accounts-reddit
 
 Reddit Oauth2 login service for use with Meteor Auth
 
