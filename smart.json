@@ -2,10 +2,10 @@
   "name": "accounts-reddit",
   "description": "Login service for reddit",
   "homepage": "https://github.com/cw4gn3r/meteor-accounts-reddit",
-  "author": "Christoph Wagner <github@christophwagner.me",
-  "version": "0.0.6",
+  "author": "Christoph Wagner <github@christophwagner.me>",
+  "version": "0.0.7",
   "git": "https://github.com/cw4gn3r/meteor-accounts-reddit.git",
   "packages": {
-    "reddit-oauth": "0.0.5"
+    "reddit-oauth": "0.0.6"
   }
 }
