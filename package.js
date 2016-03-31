@@ -16,7 +16,7 @@ Package.onUse(function (api) {
   // Export Accounts (etc) to packages using this one.
   api.imply('accounts-base', ['client', 'server']);
   api.use('accounts-oauth', ['client', 'server']);
-  api.use('pandawhisperer:reddit-oauth@0.0.8', ['client', 'server']);
+  api.use('pandawhisperer:reddit-oauth@0.0.9', ['client', 'server']);
 
   api.addFiles(['reddit_login_button.css'], 'client');
 
